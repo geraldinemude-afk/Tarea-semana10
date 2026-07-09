@@ -1,0 +1,23 @@
+¿Qué 2 tareas del backlog harías primero?
+En cualquier iteración inicial, primero haría las tareas que representa la funcionalidad principal 
+de la comunidad, y aquellas que implican el mayor riesgo.
+
+¿Por qué son las más importantes?
+Son las más importantes porque representan la base de todo el proyecto. 
+Si no empezamos
+resolviendo lo que el usuario necesita con más 
+urgencia, la aplicación no tendría sentido. Hacer 
+estas tareas primero nos permite asegurar que las 
+funciones principales sirvan bien antes de perder tiempo
+ decorando la página.
+
+ ¿Qué significa para ti que una tarea esté "terminada"? 
+ Significa que la función 
+ ya sirve perfectamente, no tiene fallas, hace 
+ exactamente lo que el usuario pidió y quedó guardada de 
+ forma segura para que cualquiera la pueda usar.
+
+ Definición simple de terminado: 
+La función hace lo que promete sin errores.
+Se revisó y se probó que todo marche bien.
+El avance quedó guardado y registrado en Git.
